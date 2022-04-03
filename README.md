@@ -1,2 +1,4 @@
-npm i
-node index.js
+* Setup
+`npm i`
+* Run
+`node index.js`
